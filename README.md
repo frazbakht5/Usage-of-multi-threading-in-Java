@@ -1,0 +1,2 @@
+# Usage-of-multi-threading-in-Java
+This project parses a REALLY long txt file and processes it in two ways: First, without using the the threads Second, by dividing the content of the file into 10 substrings and then giving each substring to a different thread to process.  In the end, time taken by both methods are compared.  Files include the input test file but feel free to test the program on your own input files.
